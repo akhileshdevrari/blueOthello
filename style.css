@@ -1,0 +1,32 @@
+body{
+}
+
+table{
+	left: 10%;
+	top: 7vw;
+	position: absolute;
+	text-align: center;
+}
+td{
+    border: 1px solid teal;
+    background-color: #9933ff;
+    height: 4vw;
+    width: 4vw;
+    font-size: 200%;
+    font-family: Helvetica;
+    display: table-cell;
+    margin: 0 auto;
+}
+td img{
+	height: 3.7vw;
+	width: 3.7vw;
+	display: block;
+	margin: 0 auto;
+}
+td input{
+	height: 4vw;
+	width: 4vw;
+	display: block;
+	background-color: #6600cc;
+	border: none;
+}
